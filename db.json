@@ -1,0 +1,24 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "address": "New York"
+        },
+        {
+            "id": 2,
+            "name": "Mary Doe",
+            "address": "London"
+        },
+        {
+            "id": 3,
+            "name": "Peter Doe",
+            "address": "Paris"
+        },
+        {
+            "id": 4,
+            "name": "Jane Doe",
+            "address": "Tokyo"
+        }
+    ]
+}
